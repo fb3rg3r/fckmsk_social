@@ -34,7 +34,7 @@ Join the FCKMSK Social community on our main Mastodon instance: [fckmsk.social](
 
 Here are some screenshots of FCKMSK Social in action:
 
-
+[I'm an inline-style link](Screenshot 2023-11-10 184430.png](https://github.com/fb3rg3r/fckmsk_social/blob/main/Screenshot%202023-11-10%20184430.png)
 
 
 
