@@ -2,7 +2,7 @@
 
 Welcome to FCKMSK Social! This is a social media platform that empowers users to connect, share, and engage in meaningful conversations.
 
-![FCKMSK Social](https://raw.githubusercontent.com/fb3rg3r/fckmsk_social/main/graphics/cover.png)
+
 
 ## Features
 
@@ -25,20 +25,6 @@ Follow these steps to get started with FCKMSK Social:
     ```bash
     cd fckmsk_social
     ```
-
-3. Install dependencies:
-
-    ```bash
-    npm install
-    ```
-
-4. Run the application:
-
-    ```bash
-    npm start
-    ```
-
-    The app will be accessible at `http://localhost:3000` by default.
 
 ## Main Mastodon Instance
 
